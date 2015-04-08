@@ -8,6 +8,12 @@ The snippets are all set to expand upon a tab key.
 
 Some templates have additional functionality and multiple variables so ensure you use them all!
 
+## Contents
+
+1. [Laravel 5 - Blade](https://github.com/Smileysoftware/PHP-Storm-Live-Templates/blob/master/Laravel%205%20-%20Blade/Readme.md)
+2. [Laravel 5 - PHP](https://github.com/Smileysoftware/PHP-Storm-Live-Templates/blob/master/Laravel%205%20-%20PHP/Readme.md)
+3. [Bootstrap](https://github.com/Smileysoftware/PHP-Storm-Live-Templates/blob/master/Bootstrap/Readme.md)
+
 ##Installation
 
 Place the XML file in the following folder depending upon your operating system.
