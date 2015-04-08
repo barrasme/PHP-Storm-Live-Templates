@@ -12,11 +12,11 @@ Some templates have additional functionality and multiple variables so ensure yo
 
 Place the XML file in the following folder depending upon your operating system.
 
-OS X: ~/Library/Preferences/WebIde80/templates
+OS X: ~/Library/Preferences/WebIde&lt;version number&gt;/templates
 
-Windows: &lt;your home directory&gt;\.&lt;product name&gt;&lt;version number&gt;\config\templates
+Windows: &lt;your home directory&gt;\.WebIde&lt;version number&gt;\config\templates
 
-Linux: ~/.&lt;product name&gt;&lt;version number&gt;/config/templates
+Linux: ~/.WebIde&lt;version number&gt;/config/templates
 
 I have not tested these paths on either Windows or Linux.
 
