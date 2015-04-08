@@ -1,5 +1,13 @@
 # PHP Storm Live Templates
 
+## Introduction
+
+We all spend a lot of time typing and retyping code, we all know its a massive waste of time so I have put together a set of templates specifically for PHP Storm.
+
+The snippets are all set to expand upon a tab key.
+
+Some templates have additional functionality and multiple variables so ensure you use them all!
+
 ##Installation
 
 Place the XML file in the following folder depending upon your operating system.
