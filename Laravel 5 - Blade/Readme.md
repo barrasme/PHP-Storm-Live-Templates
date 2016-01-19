@@ -8,7 +8,7 @@ A set of templates to help you with you Laravel 5 development specifically for B
 Will generate a yield command to be used in a layout or master view
 
 ```
-@yeild('content')
+@yield('content')
 ```
 
 ### Blade Section
